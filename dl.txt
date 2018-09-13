@@ -1,0 +1,13 @@
+Django学习：
+	python -m venv [name] #创建新的虚拟环境
+	cd [虚拟环境目录]\ Scripts  -> activete.bat	#启动虚拟环境
+	cd [虚拟环境目录]\ Scripts(也可以全路径直接启用)  -> django-admin startproject [项目名称]
+	python manager.py runserver [可以跟端口号，默认8000]
+	python manager.py startapp [app名字]
+第1节: 请求和响应 | 
+第2节: 模型和 admin 站点 |
+第3节: 视图和模板 |
+第4节: 表单和通用视图 |
+第5节: 测试 | 
+第6节: 静态文件 | 
+第7节: 自定义 admin 站点
